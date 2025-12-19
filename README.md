@@ -1,6 +1,8 @@
 # BAE_ERW_Plat
 ## Platformer 3D dans le style de Mario Galaxy avec des changements de gravité et des petites planètes enrichissant les éléments de platformer
 ### Contrôles : 
+|Action|Touches|
+|---|---|
 |Déplacements|ZQSD|
 |Saut|Barre espace|
 |Regarder autour de soi|Souris|

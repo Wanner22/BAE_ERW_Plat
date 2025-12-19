@@ -6,6 +6,7 @@
 |Déplacements|ZQSD|
 |Saut|Barre espace|
 |Regarder autour de soi|Souris|
+
 Astuce : Pour vous déplacer avec plus de facilité lorsque la gravité n'est pas vers le bas, regardez dans la direction dans laquelle vous voulez aller et avancez avec z
 
 Mes difficultés : 
